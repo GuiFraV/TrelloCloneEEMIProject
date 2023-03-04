@@ -13,3 +13,8 @@ _le flag --webapp permet d'installer l'application complète de symfony 6 !_
     - Création d'un fichier .env.dev.local
     - Ajout de la connexion string au fichier .env.dev.local
     - Ensuite créer la BDD `symfony console doctrine:database:create`
+
+
+3eme Etape : Création d'un HomeController
+
+`symfony console make:controller`
